@@ -1,6 +1,12 @@
 {
     "shasha": [
-        "fd407bd3726171fb5e2ec0010d40269d6118c972f61dcc0b86a93fbed703a8ae",
-        "65782d07b4517f735d4ecd5faa66220add42682c9c38fb061e4525205766f6fb"
+        {
+            "id": "1",
+            "sha": "fd407bd3726171fb5e2ec0010d40269d6118c972f61dcc0b86a93fbed703a8ae"
+        },
+        {
+            "id": "2",
+            "sha": "65782d07b4517f735d4ecd5faa66220add42682c9c38fb061e4525205766f6fb"
+        }
     ]
 }
